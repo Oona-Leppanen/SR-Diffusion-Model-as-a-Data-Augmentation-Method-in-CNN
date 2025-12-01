@@ -1,0 +1,20 @@
+Read Me
+
+------------
+
+controlnet.py, unet_2d_blocks.py and unet_2d_condition.py files in this folder are from code in Github web page [1] titled as "SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution (CVPR2024)" by Rongyuan Wu et al. 2024.
+
+Oona Leppänen has made some small changes to them to be able to run the modified SeeSR (seesr_with_ccsr_vae) version created for her Master's thesis.
+
+
+[1] https://github.com/cswry/SeeSR/tree/main
+
+------------
+
+The checkpoints of VAE used in CCSR are added to the CCSR_VAE_checkpoints folder. These files are config.json and diffusion_pytorch_model.safetensors that can be downloaded from [2].
+
+CCSR model can be found from "CCSR Improving the Stability and Efficiency of Diffusion Models for Content Consistent Super-Resolution" Github web page [3] by Lingchen Sun et al. 2024. The link for [2] can also be found from this web page together with some other loading options than Google Drive.
+
+
+[2] https://drive.google.com/drive/folders/1yHfMV81Md6db4StHTP5MC-eSeLFeBKm8
+[3] https://github.com/csslc/CCSR
