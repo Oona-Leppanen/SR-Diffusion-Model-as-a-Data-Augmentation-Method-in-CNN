@@ -103,4 +103,4 @@ The diffusion model used in this Master's Thesis project is based on [SeeSR](htt
 2. [CCSR](https://github.com/csslc/CCSR?tab=readme-ov-file) has been made by Lingchen Sun et al. and it can be found from Github page called "CCSR Improving the Stability and Efficiency of Diffusion Models for Content Consistent Super-Resolution". Specifically, CCSR-v2 is used.
 
 ## Licence
-This project has been released under the Apache 2.0 licence.
+This project has been released under the [Apache-2.0 licence](https://github.com/Oona-Leppanen/SR-Diffusion-Model-as-a-Data-Augmentation-Method-in-CNN?tab=Apache-2.0-1-ov-file).
