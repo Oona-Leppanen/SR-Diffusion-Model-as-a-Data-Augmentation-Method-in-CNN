@@ -1,5 +1,3 @@
-Read Me
-
 This project was a Master's thesis done for University of Turku. The project consists of two pipelines that are the training of three CNN classifiers with high-resolution, low-resolution and super-resolution data and a pipeline for evaluating the used diffusion model.
 
 First, the acknowledgement regarding some of the code is presented followed by instructions of how to install and use the provided code.
