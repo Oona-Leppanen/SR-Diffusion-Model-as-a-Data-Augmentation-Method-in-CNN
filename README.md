@@ -96,11 +96,23 @@ Because the used diffusion model is a modification of [SeeSR](https://github.com
 
 2. The test_seesr_changed_for_thesis file is the same as the original test_seesr except it has been made to work with the needed changes for the SeeSR files and its given input and output paths has been changed. The point of this file was to work as an extra piece from which I received some example image for my thesis.
 
-## Acknowledgement
+## Acknowledgements
 The diffusion model used in this Master's Thesis project is based on [SeeSR](https://github.com/cswry/SeeSR) and [CCSR](https://github.com/csslc/CCSR?tab=readme-ov-file).
 1. [SeeSR](https://github.com/cswry/SeeSR) diffusion model has been made by Rongyuan Wu et al. in "SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution (CVPR2024)" web page in Github.
 
 2. [CCSR](https://github.com/csslc/CCSR?tab=readme-ov-file) has been made by Lingchen Sun et al. and it can be found from Github page called "CCSR Improving the Stability and Efficiency of Diffusion Models for Content Consistent Super-Resolution". Specifically, CCSR-v2 is used.
+
+## Citation
+If you utilize this project or this thesis, please cite them as follows:
+
+Code of the Master's Thesis
+
+
+Master's Thesis
+
+```
+@OonaLeppänen
+```
 
 ## Licence
 This project has been released under the [Apache-2.0 licence](https://github.com/Oona-Leppanen/SR-Diffusion-Model-as-a-Data-Augmentation-Method-in-CNN?tab=Apache-2.0-1-ov-file).
