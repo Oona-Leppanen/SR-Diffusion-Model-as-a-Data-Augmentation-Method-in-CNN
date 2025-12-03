@@ -105,6 +105,8 @@ The diffusion model used in this Master's Thesis project is based on [SeeSR](htt
 ## Citation
 If you utilize this project or this thesis, please cite them as follows:
 
+```
+{
 Title: "Super-Resolution Diffusion Model as a Data Augmentation Method in Convolutional Neural Networks"
 Author: Oona Leppänen
 Date: November, 2025
@@ -112,6 +114,8 @@ University: University of Turku
 Link to Master's Thesis: 
 OR
 Link to the code of the Master's Thesis: https://github.com/Oona-Leppanen/SR-Diffusion-Model-as-a-Data-Augmentation-Method-in-CNN
+}
+```
 
 ## Licence
 This project has been released under the [Apache-2.0 licence](https://github.com/Oona-Leppanen/SR-Diffusion-Model-as-a-Data-Augmentation-Method-in-CNN?tab=Apache-2.0-1-ov-file).
