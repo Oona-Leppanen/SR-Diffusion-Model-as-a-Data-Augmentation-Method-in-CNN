@@ -1,7 +1,3 @@
-Read Me
-
-------------
-
 controlnet.py, unet_2d_blocks.py and unet_2d_condition.py files in this folder are from code in Github web page [1] titled as "SeeSR: Towards Semantics-Aware Real-World Image Super-Resolution (CVPR2024)" by Rongyuan Wu et al. 2024.
 
 Oona Leppänen has made some small changes to them to be able to run the modified SeeSR (seesr_with_ccsr_vae) version created for her Master's thesis.
