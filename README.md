@@ -111,7 +111,7 @@ Title: "Super-Resolution Diffusion Model as a Data Augmentation Method in Convol
 Author: Oona Leppänen
 Date: November, 2025
 University: University of Turku
-Link to Master's Thesis: 
+Link to Master's Thesis: https://urn.fi/URN:NBN:fi-fe20251204114634
 OR
 Link to the code of the Master's Thesis: https://github.com/Oona-Leppanen/SR-Diffusion-Model-as-a-Data-Augmentation-Method-in-CNN
 }
